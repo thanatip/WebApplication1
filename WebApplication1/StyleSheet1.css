@@ -1,0 +1,41 @@
+﻿#q{
+    width:1325px;
+    height:516px;
+    background-color:#ffffff;
+    margin-top:-10px;
+    margin-left:-10px;
+    padding-right:3.1%;
+}
+#o {
+    width:1320px;
+    height:120px;
+    background-color: #ff6a00;
+    margin-top:-2px;
+    margin-left:-10px;
+    padding-right:3.5%;
+    clear:both;
+}
+#r {
+    width:650px;
+    height:512px;
+    float:left;
+    background-color:#ff0000;
+    margin-top:-52px;
+    margin-left:-10px;
+}
+#w{
+    width:650px;
+    height:456px;
+    float:right;
+    background-color:#ffffff;
+    margin-top:-52px;
+    margin-right:34px;
+}
+#w2 {
+    width:650px;
+    height:234px;
+    float:right;
+    background-color:#ffffff;
+    margin-top:0px;
+    margin-right:0px;
+}
